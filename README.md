@@ -1,5 +1,4 @@
-## CucumberBDDSeleniumTestNG
-- TheTestingAcademy - https://sdet.live
+## Cucumber-BDD Framework
 
 #Framework consists of:-
 - Java 11
